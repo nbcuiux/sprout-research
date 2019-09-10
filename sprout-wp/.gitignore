@@ -1,0 +1,10 @@
+.idea
+.DS_Store
+node_modules
+wp-local-config.php
+site-config.json
+wordpress/wp-content/themes
+wordpress/wp-content/uploads
+*.orig
+*.map
+src/styles/_icons.scss

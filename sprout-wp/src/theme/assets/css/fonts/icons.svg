@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="icons" horiz-adv-x="500">
+    <font-face font-family="icons"
+      units-per-em="500" ascent="500"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="home"
+      unicode="&#xEA01;"
+      horiz-adv-x="500" d=" M449.111 172.2L449.111 271.2L481.111 271.2L417.111 326.058L417.111 431.2L353.111 431.2L353.111 380.915L257.111 463.2L33.111 271.2L65.111 271.2L65.111 239.2L65.111 172.2L65.111 47.2L193.111 47.2L193.111 175.2L321.111 175.2L321.111 47.2L449.111 47.2L449.114 172.2L449.111 172.2z" />
+  </font>
+</defs>
+</svg>
